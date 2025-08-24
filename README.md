@@ -11,6 +11,8 @@ Starting with raw, messy data (~500k rows), I built an **end-to-end pipeline** t
 - **Tableau Public** → dashboards & storytelling visualizations  
 - **Excel/CSV** → exporting queries for visualization  
 
+## Raw Dataset
+- Kaggle: https://www.kaggle.com/datasets/joebeachcapital/airbnb
 ---
 
 ## Data Cleaning Highlights
