@@ -52,16 +52,28 @@ I wrote queries to answer key business questions:
 Built **3 dashboards** to visualize results:
 
 ### Market Overview
+
+<img width="1652" height="872" alt="image" src="https://github.com/user-attachments/assets/7a6b3fb8-f67b-47f4-89ca-095a90fcb2d1" />
+
+
 - Listings per city/state (map)  
 - Top 20 cities by average Airbnb price  
 - Distribution of listings by market size  
 
 ### Host Insights
+
+<img width="1651" height="881" alt="image" src="https://github.com/user-attachments/assets/cf09e33c-d368-4d90-9f54-e9e627262aa5" />
+
+
 - Top 10 hosts by number of listings  
 - Donut chart: single vs. multi-property hosts  
 - Host growth timeline with YoY growth  
 
 ### Properties & Reviews
+
+<img width="1659" height="882" alt="image" src="https://github.com/user-attachments/assets/af4be1e1-28f8-4d14-9655-ae016aff1b1c" />
+
+
 - Average price by accommodation type  
 - Distribution of property types  
 - Average review scores by state  
@@ -82,7 +94,8 @@ Built **3 dashboards** to visualize results:
 ## Repository Structure
 - `SQL_Cleaning.sql` → cleaning script  
 - `SQL_Analysis.sql` → analysis queries  
-- `/Dashboards` → Tableau workbook + screenshots  
+- `/Tableau Dashboard Project` → Tableau workbook
+- `/Screenshots` → Dashboards screenshots  
 
 ---
 
